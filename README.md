@@ -5,7 +5,7 @@
 
 We do not sell subscriptions. We build assets. No cloud lock. No meter. Blueprint on your floor, not ours.
 
-**Live Demo:** [ausa-industrial.vercel.app] ← replace with your live link
+**Live Demo:** (https://lancebitner.github.io/AUSAIndustrial/)
 **Launch Version:** [Interactive Audit Tool]
 
 ---
