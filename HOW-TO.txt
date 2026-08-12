@@ -1,0 +1,22 @@
+HOW TO GO LOCAL -> GITHUB (2 minutes)
+
+1. You already have the code LOCAL - this folder is it:
+   - index.html = your site
+   - README.md = your story
+
+2. Go to github.com/lancebitner/AUSAIndustrial
+   Click "Add file" -> "Upload files" 
+   Drag BOTH index.html and README.md from this folder in.
+   Click "Commit changes" green button.
+
+That's it. No command line needed.
+
+If you want to use git later:
+   git init
+   git add .
+   git commit -m "AUSA-001 launch"
+   git branch -M main
+   git remote add origin https://github.com/lancebitner/AUSAIndustrial.git
+   git push -u origin main
+
+Flow: Your Laptop (real) -> GitHub (vault/proof) -> Live Site (projection) -> Their Box (foundation)
